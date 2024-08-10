@@ -1,7 +1,10 @@
 <body>
     <header>
-        <p><img src="https://archetypmarket.org/img/10.png?semt=ais" alt="Uncover Threats: Top 10 Dark Web Markets and Their Potential Risks" title="Exploring the Top 10 Dark Web Markets and Understanding Their Potential Risks" /></p>
         <h1>About Archetyp Market / Archetyp Darknet Shop</h1>
+        <p><img src="https://archetypmarket.org/img/10.png?semt=ais" alt="Uncover Threats: Archetyp" title="Archetyp Darknet Market" /></p>
+        <li>
+<p dir="auto"><a href="https://archetypmarket.org" rel="nofollow">Archetyp Market</a> - <code>https://archetypmarket.org</code></p>
+</li>
     </header>
     <section>
         <h2>Introduction</h2>
