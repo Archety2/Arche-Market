@@ -1,5 +1,6 @@
 <body>
     <header>
+        <p><img src="https://archetypmarket.org/img/10.png?semt=ais" alt="Uncover Threats: Top 10 Dark Web Markets and Their Potential Risks" title="Exploring the Top 10 Dark Web Markets and Understanding Their Potential Risks" /></p>
         <h1>About Archetyp Market / Archetyp Darknet Shop</h1>
     </header>
     <section>
